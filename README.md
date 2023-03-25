@@ -1,10 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVjM2JjNmQyNTBmMDE3MDVlNTJjMzBiNDE5ZmEyNjYxMjBkZDYzMyZjdD1n/hrlg3PhRwIrII/giphy.gif" width="200"/>
-</div>
-[![Linkedin Badge](https://img.shields.io/badge/-JoshIbbotson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josh-ibbotson-bb4668195/)](https://www.linkedin.com/in/josh-ibbotson-bb4668195/)
-[![](https://visitcount.itsvg.in/api?id=Joshibbotson&icon=6&color=8)](https://visitcount.itsvg.in)</p>
-
-<div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVjM2JjNmQyNTBmMDE3MDVlNTJjMzBiNDE5ZmEyNjYxMjBkZDYzMyZjdD1n/hrlg3PhRwIrII/giphy.gif"
        width="500"/>
   <div id="badges">
