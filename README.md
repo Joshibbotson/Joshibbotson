@@ -1,14 +1,24 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/wood-carving-fibonacci-hrlg3PhRwIrII" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVjM2JjNmQyNTBmMDE3MDVlNTJjMzBiNDE5ZmEyNjYxMjBkZDYzMyZjdD1n/hrlg3PhRwIrII/giphy.gif" width="200"/>
 </div>
 [![Linkedin Badge](https://img.shields.io/badge/-JoshIbbotson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josh-ibbotson-bb4668195/)](https://www.linkedin.com/in/josh-ibbotson-bb4668195/)
-[![](https://visitcount.itsvg.in/api?id=Joshibbotson&icon=6&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Joshibbotson&icon=6&color=8)](https://visitcount.itsvg.in)</p>
 
-## Hey, [I'm Josh](https://www.linkedin.com/in/josh-ibbotson-bb4668195/)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Contiously+learning+continuosly+problem+solving)](https://git.io/typing-svg)
-
-![About.me Badge](https://img.shields.io/badge/About.me-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white)
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVjM2JjNmQyNTBmMDE3MDVlNTJjMzBiNDE5ZmEyNjYxMjBkZDYzMyZjdD1n/hrlg3PhRwIrII/giphy.gif"
+       width="500"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/josh-ibbotson-bb4668195/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"     alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=Joshibbotson&style=flat-square&color=blue" alt=""/>
+  <h1>
+    Hi
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+    my name is Josh
+</h1>
+</div>
 
 ```JavaScript
 const userInfo = {
