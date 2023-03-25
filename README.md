@@ -14,6 +14,10 @@
 </h1>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Contiously+learning+continuosly+problem+solving)](https://git.io/typing-svg)
+
+![About.me Badge](https://img.shields.io/badge/About.me-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white)
+
 ```JavaScript
 const userInfo = {
        user: 'Josh Ibbotson',
